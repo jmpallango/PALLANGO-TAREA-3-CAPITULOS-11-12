@@ -264,6 +264,8 @@ se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. D
 
 ![image](https://user-images.githubusercontent.com/105695077/179018711-530c9bad-bf90-4dc1-9a60-8c65d8afa63e.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179027279-503fef39-1264-42ad-8404-c84cff3ae445.png)
+
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ohms? ¿Una
 XC de 1 kOhm?
 
