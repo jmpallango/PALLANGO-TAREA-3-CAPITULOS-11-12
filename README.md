@@ -104,6 +104,8 @@ Capitulo 11
 
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 
+![image](https://user-images.githubusercontent.com/105695077/179032695-743d98ea-bab0-458f-9728-6f87d8094287.png)
+
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 
 ![image](https://user-images.githubusercontent.com/105695077/179032305-3ca42edf-e315-46cd-84a8-e904026e8681.png)
@@ -127,6 +129,8 @@ Capitulo 11
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa
 cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
 
+![image](https://user-images.githubusercontent.com/105695077/179032756-2e06fe79-1fc8-4848-add9-8fb8ee5bd56a.png)
+
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
 
 ![image](https://user-images.githubusercontent.com/105695077/179015771-e2bef332-9543-47cb-bf8c-23eca98953d7.png)
@@ -138,6 +142,7 @@ de los puntos siguientes:
 
 ![image](https://user-images.githubusercontent.com/105695077/179015854-761727af-ca6f-47cb-be1a-15e142097fb6.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179033311-9c00fba3-41dd-43b8-be11-088796af6f40.png)
 
 20. Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B. 
 
@@ -145,22 +150,35 @@ de los puntos siguientes:
 
 ![image](https://user-images.githubusercontent.com/105695077/179015957-6f362865-bbe9-4e14-aec1-bf9df9ac6a78.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179033396-bea3e6f8-90b0-4843-92db-84be919e4b87.png)
+![image](https://user-images.githubusercontent.com/105695077/179033429-6ce33832-484a-47c9-b0ef-886b808d9096.png)
+
 24. Determine la frecuencia para cada velocidad angular:
 (a) 60 rad/s (b) 360 rad/s (c) 2 rad/s (d) 1256 rad/s
 
+![image](https://user-images.githubusercontent.com/105695077/179033470-a723a1d8-9b5c-4c72-852a-d90ac9f9aec2.png)
+
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 (a) (b) (c) (d) (e) Irms Iprom Ip Ipp i en el pico positivo
+
+![image](https://user-images.githubusercontent.com/105695077/179033520-5f8f3285-e5ab-4730-93a6-d9fdf0dbb9e0.png)
 
 28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
 
 ![image](https://user-images.githubusercontent.com/105695077/179016102-d743edf9-4612-4c03-adb4-281cd5bcd751.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179033572-d53fb64d-0199-485b-9cf7-84b06a11f6a8.png)
+
 30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no
 alterno (valores negativos)?
+
+![image](https://user-images.githubusercontent.com/105695077/179033603-0f0209df-3b3b-444d-a753-2e16380570fe.png)
 
 32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
 
 ![image](https://user-images.githubusercontent.com/105695077/179016218-76e5d628-fcfc-4472-9864-c24eae8c0693.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179033650-604d019c-3c7a-4090-9685-6b2eb53282ca.png)
 
 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms.
 ¿Cuál es el ciclo de trabajo en porcentaje?
@@ -173,6 +191,7 @@ alterno (valores negativos)?
 
 ![image](https://user-images.githubusercontent.com/105695077/179016439-dad6d91f-6143-4778-94fe-7fa23ba5b372.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179033833-762033c5-99c9-4c11-ae6b-8ae510e9dcbc.png)
 
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
