@@ -24,15 +24,17 @@ Sangolquí- Ecuador
 Jueves 14 de julio de 2022
 
 # OBJETIVOS:
-Objetivo General:
 
-• Comprender la manera de realizar las ecuaciones simultaneas para los nodos, lazos y ramas analizando si estos se encunetran en serie o paralelo, al igual que debemos compender los conceptos de magnetismo y electromagnetismo presentados en los capitulos 9 y 10
+bjetivo General:
+
+• Comprender el uso de la corriente y el voltaje alterno, con sus respectivas introducciones, ejercicios y formulas para un mejor desarrollo de este, al igual que debemos analisas el uso de los capacitores y como esto influye en el voltaje y corriente alternos.
 
 Objetivo Especifico:
 
-• Analizar un circuito en paralelo o en serie, para realizar y encontrar las ecuaciones simultaneas para los nodos, lazos y ramas del circuitopresentados en el capitulo 9.
+• Analizar el uso de los capacitores en los principios de circuitos y cual es su utilidad dentro de un circuito y que relacion tiene con la corriente y voltaje alternos.
 
-• Comprender los conceptos de magnetismo y electromagnetismo del capitulo 10. 
+• Comprender los conceptos corriente y voltaje alternos presentados en el capitulo 11 y como esto influje en los principios de circuitos.
+
 
 # MARCO TEORICO:
 
