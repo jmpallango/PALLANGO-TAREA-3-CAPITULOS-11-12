@@ -24,7 +24,7 @@ Sangolquí- Ecuador
 Jueves 14 de julio de 2022
 
 # OBJETIVOS:
-bjetivo General:
+Objetivo General:
 
 • Comprender la manera de realizar las ecuaciones simultaneas para los nodos, lazos y ramas analizando si estos se encunetran en serie o paralelo, al igual que debemos compender los conceptos de magnetismo y electromagnetismo presentados en los capitulos 9 y 10
 
@@ -35,3 +35,7 @@ Objetivo Especifico:
 • Comprender los conceptos de magnetismo y electromagnetismo del capitulo 10. 
 
 # MARCO TEORICO:
+
+Capitulo 11
+
+
