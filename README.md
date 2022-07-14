@@ -220,10 +220,13 @@ figura 12-66.
 
 ![image](https://user-images.githubusercontent.com/105695077/179017683-944c41f2-2843-48f9-9602-2848f421e9f3.png)
 
-![image](https://user-images.githubusercontent.com/105695077/179030981-ff2339ae-8c5e-40bd-ad17-82db07a4da40.png)
-
+![image](https://user-images.githubusercontent.com/105695077/179031554-b776ed80-2ded-4a8f-9f32-42e76acba96c.png)
 
 20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
+
+![image](https://user-images.githubusercontent.com/105695077/179031229-d462717b-31ff-49c5-9cc4-a47351d08caf.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179031251-1e36a364-8eda-4eb0-8eaa-3ad5ff1a34cc.png)
 
 22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor
 
