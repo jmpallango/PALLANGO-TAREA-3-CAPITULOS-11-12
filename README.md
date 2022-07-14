@@ -274,6 +274,8 @@ otros capacitores.
 
 ![image](https://user-images.githubusercontent.com/105695077/179019029-8c5b4fe8-b2db-4c15-b3ed-464dab050a26.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179025552-82db3000-8680-4339-a5a6-9ec4fee123ce.png)
+
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de
 10 kHz en un punto dado en un circuito amplificador?
 
