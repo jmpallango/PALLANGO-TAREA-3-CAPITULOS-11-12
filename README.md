@@ -258,6 +258,8 @@ se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. D
 
 ![image](https://user-images.githubusercontent.com/105695077/179018644-1073b637-8695-4e84-a74a-2f8993fec615.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179026775-6a7a1314-9f91-4e53-8c25-d67ec1bb7f4b.png)
+
 42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
 
 ![image](https://user-images.githubusercontent.com/105695077/179018711-530c9bad-bf90-4dc1-9a60-8c65d8afa63e.png)
