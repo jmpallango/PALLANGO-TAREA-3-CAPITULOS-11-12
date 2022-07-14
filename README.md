@@ -25,7 +25,7 @@ Jueves 14 de julio de 2022
 
 # OBJETIVOS:
 
-bjetivo General:
+Objetivo General:
 
 • Comprender el uso de la corriente y el voltaje alterno, con sus respectivas introducciones, ejercicios y formulas para un mejor desarrollo de este, al igual que debemos analisas el uso de los capacitores y como esto influye en el voltaje y corriente alternos.
 
