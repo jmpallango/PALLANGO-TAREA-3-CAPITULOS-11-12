@@ -277,8 +277,12 @@ otros capacitores.
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de
 10 kHz en un punto dado en un circuito amplificador?
 
+Todas las frecuencias son de 15 kHz.
+
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz.
 ¿Qué valor de resistor se emula?
+
+![image](https://user-images.githubusercontent.com/105695077/179023451-855dd27c-a48a-4935-ada5-530a1e972059.png)
 
 # VIDEO:
 
