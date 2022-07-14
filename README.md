@@ -274,6 +274,8 @@ XC de 1 kOhm?
 46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 uF, y se mide una corriente rms de 1 mA. ¿Cuál
 es el valor del voltaje?
 
+![image](https://user-images.githubusercontent.com/105695077/179027793-4edd83ba-9d58-4de9-a90a-b4de24585b41.png)
+
 48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81. 
 
 ![image](https://user-images.githubusercontent.com/105695077/179018928-62b3d9bf-8715-4c0a-a19f-b724cbce9335.png)
