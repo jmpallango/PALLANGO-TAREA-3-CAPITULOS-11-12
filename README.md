@@ -161,7 +161,6 @@ alterno (valores negativos)?
 
 ![image](https://user-images.githubusercontent.com/105695077/179016439-dad6d91f-6143-4778-94fe-7fa23ba5b372.png)
 
-![image](https://user-images.githubusercontent.com/105695077/179026306-32e6f467-5607-40c5-b24d-f7484da01548.png)
 
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
@@ -251,6 +250,8 @@ llega a 6 V después de cerrar el interruptor.
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
 ![image](https://user-images.githubusercontent.com/105695077/179018535-869050b9-59fd-42c1-90ed-c83a01f79b12.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179026306-32e6f467-5607-40c5-b24d-f7484da01548.png)
 
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t = 10 ms después de que
 se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
