@@ -185,28 +185,43 @@ Capitulo 12
 
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
+![image](https://user-images.githubusercontent.com/105695077/179030521-16989ca7-a9e6-452e-8128-156c073200e8.png)
+
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.
 ¿Cuál es la capacitancia?
 
+![image](https://user-images.githubusercontent.com/105695077/179030579-7f1060a6-c581-4a80-a5e7-3ab51b7f1961.png)
+
 * 10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria
-de las ciencias. Planea utilizar un dieléctrico de papel (er  2.5) de 8  105 m de espesor. La feria de
+de las ciencias. Planea utilizar un dieléctrico de papel (er = 2.5) de 8  105 m de espesor. La feria de
 las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué
 tamaño serían las placas si pudieran ser construidas?
+
+![image](https://user-images.githubusercontent.com/105695077/179030636-4b4c80bb-b666-473f-a17f-094843843135.png)
 
 12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene
 coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
 
+![image](https://user-images.githubusercontent.com/105695077/179030713-664a0dd4-fff3-439a-8336-fd41b5da1d30.png)
+
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área
 de placas?
+
+Consta de capas alternas de laminillas metálicas y delgadas hojas de mica. Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí para incrementar el área de placas. Se utilizan más capas para incrementar el área de placas, y por tanto, se incrementa la capacitancia. El apilamiento de hojas de mica/laminillas se encapsula en un material aislante.
 
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la
 figura 12-66.
 
 ![image](https://user-images.githubusercontent.com/105695077/179017614-e27e4644-25b4-47d2-806b-8540088f665c.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179030858-6ef8f7ad-8f71-425c-a344-01b00f122be7.png)
+
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67
 
 ![image](https://user-images.githubusercontent.com/105695077/179017683-944c41f2-2843-48f9-9602-2848f421e9f3.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179030981-ff2339ae-8c5e-40bd-ad17-82db07a4da40.png)
+
 
 20. Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?
 
