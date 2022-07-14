@@ -382,6 +382,8 @@ Todas las frecuencias son de 15 kHz.
 
 # VIDEO:
 
+https://youtu.be/EDqGiD2Q0Yg
+
 # CONCLUSIONES:
 
 . Para un correcto manejo de las corrientes y voltajes alternos hay que entender como funciona las diferentes formulas y como leer el tipo de datos que utiliza para los calculos de estos dependiendo si este se encunetre dentro de un equipo o circcuito.
@@ -391,8 +393,3 @@ Todas las frecuencias son de 15 kHz.
 # BIBLIOGRAFÍA:
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
-
-
-
-
-
