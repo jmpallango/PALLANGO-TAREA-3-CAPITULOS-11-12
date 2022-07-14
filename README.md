@@ -284,6 +284,9 @@ otros capacitores.
 
 # CONCLUSIONES:
 
+. Para un correcto manejo de las corrientes y voltajes alternos hay que entender como funciona las diferentes formulas y como leer el tipo de datos que utiliza para los calculos de estos dependiendo si este se encunetre dentro de un equipo o circcuito.
+
+. Tanto el capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la propiedad de capacitancia En estado neutro, las dos placas de un capacitor tienen el mismo número de electrones libres.
 
 # BIBLIOGRAFÍA:
 
