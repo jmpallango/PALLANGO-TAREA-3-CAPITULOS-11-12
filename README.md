@@ -100,19 +100,29 @@ Capitulo 11
 2. Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 (a) 1 Hz (b) 60 Hz (c) 500 Hz (d) 1 kHz (e) 200 kHz (f) 5 MHzx
 
+![image](https://user-images.githubusercontent.com/105695077/179032250-dc5f4374-740d-417e-beb8-5b550353723c.png)
+
 4. Una onda seno tiene frecuencia de 50 kHz. ¿Cuántos ciclos completa en 10 ms?
 
 6. Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?
 
+![image](https://user-images.githubusercontent.com/105695077/179032305-3ca42edf-e315-46cd-84a8-e904026e8681.png)
+
 8. El valor pico de una onda seno es de 12 V. Determine los siguientes valores:
 (a) rms (b) pico a pico (c) promedio
+
+![image](https://user-images.githubusercontent.com/105695077/179032342-3979c61b-82d1-4aa6-81c1-6193528c4b1a.png)
 
 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio
 
 ![image](https://user-images.githubusercontent.com/105695077/179015470-c43dfb95-ed4e-40eb-8603-214021aac913.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179032414-86eba1ee-6d53-4c7a-8242-4464c8b5e5ae.png)
+
 12. Cambie los siguientes valores angulares de radianes a grados:
 ![image](https://user-images.githubusercontent.com/105695077/179015616-733acd37-a5ae-4c8e-b8a4-904c7e9e7f22.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179032461-e8ba1c64-c26e-455e-9b9e-05626dec33e6.png)
 
 14. Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa
 cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?
@@ -120,6 +130,8 @@ cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fas
 16. Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:
 
 ![image](https://user-images.githubusercontent.com/105695077/179015771-e2bef332-9543-47cb-bf8c-23eca98953d7.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179032520-18762a18-c38b-43a4-a845-09a8bc9819a9.png)
 
 18. Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno
 de los puntos siguientes:
@@ -180,12 +192,16 @@ Capitulo 12
 
 ![image](https://user-images.githubusercontent.com/105695077/179017312-28f1ad31-c12a-4e98-a29e-0a5188d45be9.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179032032-1dbc6ac3-e8ac-4b44-8208-6866f85e64ac.png)
+
 4. Transforme los siguientes valores de farads a microfarads;
 (a) 0.0000001 F (b) 0.0022 F (c) 0.0000000015 F
 
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
 ![image](https://user-images.githubusercontent.com/105695077/179030521-16989ca7-a9e6-452e-8128-156c073200e8.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179032091-b53d7f44-341d-428e-b08c-284600dafe9d.png)
 
 8. Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils.
 ¿Cuál es la capacitancia?
@@ -203,6 +219,8 @@ tamaño serían las placas si pudieran ser construidas?
 coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?
 
 ![image](https://user-images.githubusercontent.com/105695077/179030713-664a0dd4-fff3-439a-8336-fd41b5da1d30.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179032153-f16e6f81-94fa-41f7-a9a1-608de9c4234d.png)
 
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área
 de placas?
