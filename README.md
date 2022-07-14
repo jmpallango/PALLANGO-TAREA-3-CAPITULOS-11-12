@@ -183,15 +183,22 @@ alterno (valores negativos)?
 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms.
 ¿Cuál es el ciclo de trabajo en porcentaje?
 
+![image](https://user-images.githubusercontent.com/105695077/179034200-d10483e1-1257-4576-aaea-39ee8eecbdf7.png)
+
 36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
 
 ![image](https://user-images.githubusercontent.com/105695077/179016472-aa26f7de-fc48-4287-8da6-f7102c6bb346.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179034256-bd38fd7a-7179-4313-93ac-3af70945ffdc.png)
 
 38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
 
 ![image](https://user-images.githubusercontent.com/105695077/179016439-dad6d91f-6143-4778-94fe-7fa23ba5b372.png)
 
 ![image](https://user-images.githubusercontent.com/105695077/179033833-762033c5-99c9-4c11-ae6b-8ae510e9dcbc.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179034322-bc7374e2-b12e-4ac7-8b90-1da450dbfc61.png)
+
 
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
@@ -204,6 +211,7 @@ prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico 
 
 ![image](https://user-images.githubusercontent.com/105695077/179016755-2020b111-eb6c-484e-af31-75eaae65e95c.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179034449-4f349d27-0c29-4543-929c-83f92a026b76.png)
 
 Capitulo 12
 
@@ -213,8 +221,12 @@ Capitulo 12
 
 ![image](https://user-images.githubusercontent.com/105695077/179032032-1dbc6ac3-e8ac-4b44-8208-6866f85e64ac.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179034619-155ea117-4458-4688-9a60-7506deb23b65.png)
+
 4. Transforme los siguientes valores de farads a microfarads;
 (a) 0.0000001 F (b) 0.0022 F (c) 0.0000000015 F
+
+![image](https://user-images.githubusercontent.com/105695077/179034708-9f6e5034-dff9-4b99-af9b-0fa68daa80f9.png)
 
 6. ¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?
 
