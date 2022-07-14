@@ -281,22 +281,32 @@ figura 12-66.
 
 ![image](https://user-images.githubusercontent.com/105695077/179017769-ca173b45-1b79-4d26-915b-55305d24d70d.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179035317-5b4e6a13-fcdc-4b9a-a98b-b245a6f3918f.png)
+
 24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor. 
 
 ![image](https://user-images.githubusercontent.com/105695077/179017850-a0e577c6-784a-4617-9774-873a47af500e.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179035381-c70ed9d1-3bc4-4199-8cc3-07f250bb51a4.png)
 
 26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
 
 ![image](https://user-images.githubusercontent.com/105695077/179018074-27829618-aa3f-4bdf-9fe8-9de10575c6c6.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179035561-405232ed-16ac-4682-aa64-d6e4492164c4.png)
+
 28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
 
 ![image](https://user-images.githubusercontent.com/105695077/179018102-c111111a-6b64-42b6-9145-baa5522608c9.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179035611-85247913-ddff-4454-8682-6fbad06adf59.png)
+![image](https://user-images.githubusercontent.com/105695077/179035695-ac9f3674-e17c-4e6e-aac2-3324b2a7eb64.png)
+
 30. Determine la constante de tiempo para cada una de las combinaciones en serie:
 
 ![image](https://user-images.githubusercontent.com/105695077/179018171-691790f1-24bf-4717-8149-2344472735ee.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179035774-e98b3b96-4676-4509-aaa9-b35d27ad6cf9.png)
 
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
 
@@ -308,11 +318,15 @@ figura 12-66.
 
 ![image](https://user-images.githubusercontent.com/105695077/179018347-eea23b7a-e8b6-43a8-bfba-dc483209c311.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179035811-f3ed90c4-3e01-4571-8432-429c0b48c446.png)
+
 36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial
 creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76
 llega a 6 V después de cerrar el interruptor. 
 
 ![image](https://user-images.githubusercontent.com/105695077/179018422-add19caf-b7e1-41bf-9c6e-4bcb45a5344c.png)
+
+![image](https://user-images.githubusercontent.com/105695077/179035879-b1f68662-555f-4def-a760-f89d311c3924.png)
 
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
