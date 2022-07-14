@@ -280,6 +280,8 @@ es el valor del voltaje?
 
 ![image](https://user-images.githubusercontent.com/105695077/179018928-62b3d9bf-8715-4c0a-a19f-b724cbce9335.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179028179-7f3ba39b-b926-435a-9b04-6df9bf8464a4.png)
+
 50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los
 otros capacitores.
 
