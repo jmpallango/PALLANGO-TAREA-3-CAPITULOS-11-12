@@ -91,6 +91,20 @@ Capitulo 12
 ![capitulos 11-12_page-0048](https://user-images.githubusercontent.com/105695077/179005776-8b16c7bd-6008-4378-aa01-f7964cce4543.jpg)
 ![capitulos 11-12_page-0049](https://user-images.githubusercontent.com/105695077/179005779-6f0e74ea-e87d-48a1-91f0-7765c718c157.jpg)
 
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
+
+Capitulo 11
+
+Capitulo 12
+
+# VIDEO:
+
+# CONCLUSIONES:
+
+# BIBLIOGRAFÍA:
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
 
 
 
