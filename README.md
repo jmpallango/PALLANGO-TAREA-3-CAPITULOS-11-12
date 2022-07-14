@@ -161,6 +161,8 @@ alterno (valores negativos)?
 
 ![image](https://user-images.githubusercontent.com/105695077/179016439-dad6d91f-6143-4778-94fe-7fa23ba5b372.png)
 
+![image](https://user-images.githubusercontent.com/105695077/179026306-32e6f467-5607-40c5-b24d-f7484da01548.png)
+
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
 ![image](https://user-images.githubusercontent.com/105695077/179016578-374474f7-dd7b-4ff1-a71b-12117a63da27.png)
